@@ -1,0 +1,21 @@
+body
+{
+    background: pink;
+    text-align: center;
+    
+}
+
+#heading
+{
+    height: 50px;
+    width: 400px;
+    background: linear-gradient(black,grey,white,grey,black);
+    color: rgb(255, 0, 0);
+    margin: auto;
+    margin-top: 40px;
+    border: 0cap;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+    border-bottom-left-radius: 45%;
+    border-bottom-right-radius: 45%;
+}
